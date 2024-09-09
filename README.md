@@ -11,7 +11,7 @@
 
 ## **Current State of Application**
 
-This is a simple application that allows frontend users to choose an event and select a date and time to book the event. No login or authentication is required.
+This is a simple application that allows frontend users to choose an event and select a date and time to book the event.
 
 This application is a very simple version of something like Calendly, Cal.com, or Acuity.
 
